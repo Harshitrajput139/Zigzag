@@ -11,10 +11,10 @@ ZigZag Travel is a travel agency website created in 2025 to help travelers explo
 - Explore more details about destinations
 
 ## Images
-- Logo: `images/logo.png`
-- Activity: `images/activity.png`
-- Destination Manali: `images/manali.png`
-- Book Now Button: `images/bg (2).png`
+- Logo: `logo.png`
+- Activity: `activity.png`
+- Destination Manali: `manali.png`
+- Book Now Button: `bg (2).png`
 
 ## How to Use
 1. Open `index.html` in any web browser.
@@ -22,5 +22,3 @@ ZigZag Travel is a travel agency website created in 2025 to help travelers explo
 3. Click on "Explore" links to learn more about a destination.
 4. Click on "Book Now" links to send an email for booking.
 
-## Note
-All images are located inside the `images` folder. Make sure they are in the same folder as the HTML files.
