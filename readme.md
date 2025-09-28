@@ -24,4 +24,4 @@ ZigZag Travel is a travel agency website created in 2025 to help travelers explo
 
 ## Live View
 You can view the website live on GitHub Pages:  
-[ZigZag Travel Live](https://harshitrajput139.github.io/zigzag/)
+[ZigZag Travel Live](https://harshitrajput139.github.io/Zigzag/)
